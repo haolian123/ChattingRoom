@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QQ/libs/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQ/libs/druid-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQ/libs/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QQ/libs/mysql-connector-java-8.0.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

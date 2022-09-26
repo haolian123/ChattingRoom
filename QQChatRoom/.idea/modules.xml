@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QQChatRoom.iml" filepath="$PROJECT_DIR$/.idea/QQChatRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ/QQClient/QQClient.iml" filepath="$PROJECT_DIR$/QQ/QQClient/QQClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ/QQServer/QQServer.iml" filepath="$PROJECT_DIR$/QQ/QQServer/QQServer.iml" />
+    </modules>
+  </component>
+</project>
